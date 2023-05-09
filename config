@@ -1,0 +1,8 @@
+mode=drun
+--show
+style=~/.config/wofi/style.css
+allow_images=true
+term=kitty
+matching=contains
+insensitive=false
+#gtk_dark=true
