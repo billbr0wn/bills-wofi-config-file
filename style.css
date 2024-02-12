@@ -7,12 +7,18 @@
 /*     --white: white; */
 /* } */
 
-*{
-    font-family: monospace;
+/** ********** Fonts ********** **/
+* {
+    font-family: "Inconsolata Black", "Source Code Pro semibold", archcraft, sans-serif;
+    font-size: 26px;
 }
 
-window {
-    background-color: #7C818C;
+
+
+#window {
+background-color: #6c6f75;
+border: 3px #3866f0;
+border-radius: 15px;
 }
 
 #input {
@@ -26,13 +32,14 @@ window {
 
 #inner-box {
     background-color: #383C4A;
-
+    border-radius: 15px;
 }
 
 #outer-box {
     margin: 5px;
     padding:20px;
     background-color: #383C4A;
+    border-radius: 15px;
 }
 
 #scroll {
