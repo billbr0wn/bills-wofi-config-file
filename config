@@ -5,4 +5,9 @@ allow_images=true
 term=kitty
 matching=contains
 insensitive=false
+image_size=48
 #gtk_dark=true
+## Geometry
+width=500px
+height=705px
+
